@@ -50,10 +50,10 @@
 						<div class="col-md-6 col-sm-6">
 							<!-- Contact Two Item -->
 							<div class="contact-two-item">
-								<div class="form-group input-lg">EMAIL ERROR</div>
+								<div class="form-group input-lg">VIEW EMAIL ERROR</div>
 							</div>
 							<div class="contact-two-item">
-								<div class="form-group input-lg">PASSWORD ERROR</div>
+								<div class="form-group input-lg">VIEW PASSWORD ERROR</div>
 							</div>
 						</div>
 
